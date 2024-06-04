@@ -1,1 +1,0 @@
-# Tubes-STBI_IR-Test
